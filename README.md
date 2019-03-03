@@ -52,9 +52,9 @@ The Results are:
 ************************************
  TOP THREE ARTICLES BY PAGE VIEWS :
 ************************************
-(1) "Candidate is jerk, alleges rival" ==>338647 views
-(2) "Bears love berries, alleges bear" ==>253801 views
-(3) "Bad things gone, say good people" ==>170098 views
+**(1) "Candidate is jerk, alleges rival" ==>338647 views**
+**(2) "Bears love berries, alleges bear" ==>253801 views**
+**(3) "Bad things gone, say good people" ==>170098 views**
 
 2. Who are the most popular article authors of all time?
 
