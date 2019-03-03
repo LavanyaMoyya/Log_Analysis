@@ -72,7 +72,6 @@ This files contains all configuration (Python3, Postgresql,PIP8 etc) setup for o
 ************************************
 July, 17, 2016 ==> 2.3% errors
 
-
 ### Miscellaneous
 
 This README document is based on a template suggested by PhilipCoach in this
